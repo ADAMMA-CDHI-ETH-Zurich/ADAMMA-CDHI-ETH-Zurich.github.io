@@ -13,7 +13,7 @@
 
    font-family: "Helvetica Neue", sans-serif;
    #font-size: 1rem;
-  
+
 }
 
 .container, .container-sm, .container-xl {
@@ -21,14 +21,14 @@
   margin-bottom: 20px;
   border-radius: 25px;
 
-  
+
 }
 
 body {
   background-color: #E8E8E8;
 
    #background-color: #B6A19E;
-  
+
 }
 
 h1, h2, h3, h4, h5, h6 {
@@ -48,15 +48,15 @@ h2 {
   border-bottom: 1.0px solid #CCC;
   margin-top: 15px;
   margin-bottom: 5px;
- 
+
 }
 
 .titletext {
     margin-bottom: 0px;
     padding-bottom: 0px;
- 
-   
-   
+
+
+
 }
 .subtitletext {
     margin-top: 0px;
@@ -66,7 +66,7 @@ h2 {
     /* font-weight: 600; */
     color: #777;
     color: #999;
-    
+
 }
 
 p {
@@ -74,7 +74,7 @@ p {
     margin: 0px;
     margin-bottom: 15px;
     line-height: 1.25rem;
-    
+
 }
 
 a {
@@ -82,7 +82,7 @@ a {
   color: #F05454;
   text-decoration: none;
   /* font-weight: 600; */
-  
+
 }
 
 a:hover {
@@ -122,7 +122,7 @@ footer {}
   text-align: center;
   font-style: italic;
   font-size: 0.75rem;
-  
+
 }
 
 .footer a {
@@ -308,7 +308,7 @@ code {
 
 .fa-researchgate:hover {
 	color: #6BBAA7;
-	
+
 }
 
 
